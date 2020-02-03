@@ -41,17 +41,6 @@ export default function Emojis() {
             setModalVisible(true);
           }}
         />
-
-        <Queridometro
-          action={() => {
-            setModalVisible(true);
-          }}
-        />
-        <Queridometro
-          action={() => {
-            setModalVisible(true);
-          }}
-        />
       </Container>
       <ModalBrother visible={modalVisible}>
         <View style={{ marginTop: 22 }}>
@@ -100,7 +89,7 @@ export default function Emojis() {
                 <AvatarReceived
                   source={{
                     uri:
-                      'https://d1izikxk6qog.cloudfront.net/cdn/brothers/medias/94b07cf5-0e96-4ca3-a921-5ea1b7939b53.png',
+                      'https://d1izikxk6qog.cloudfront.net/cdn/brothers/medias/de7dab93-5b1b-41a2-984b-bd415b870dae.png',
                   }}
                 />
                 <EmojiDetail source={love} />
@@ -109,10 +98,10 @@ export default function Emojis() {
                 <AvatarReceived
                   source={{
                     uri:
-                      'https://d1izikxk6qog.cloudfront.net/cdn/brothers/medias/94b07cf5-0e96-4ca3-a921-5ea1b7939b53.png',
+                      'https://d1izikxk6qog.cloudfront.net/cdn/brothers/medias/ee05a315-bee2-4bf8-9a46-0e33de44bdbd.png',
                   }}
                 />
-                <EmojiDetail source={love} />
+                <EmojiDetail source={boom} />
               </BoxAvatarReceived>
             </ContainerReceived>
           </BodyModal>

@@ -29,7 +29,7 @@ export const Time = styled.Text`
 `;
 export const Banner = styled(LinearGradient).attrs(props => ({
   colors: props.onus
-    ? ['rgb(202, 202, 202)', 'rgb(221, 221, 221)']
+    ? ['rgb(254, 27, 96)', 'rgb(232, 29, 29)']
     : ['rgb(0, 220, 81)', 'rgb(0, 220, 205)'],
 }))`
   flex-direction: row;

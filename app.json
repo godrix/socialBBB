@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Central de Monitoramento",
-    "slug": "Central de Monitoramento",
+    "name": "SocialBBB",
+    "slug": "SocialBBB",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [

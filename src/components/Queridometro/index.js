@@ -25,7 +25,7 @@ export default function Queridometro({ action }) {
       <Avatar
         source={{
           uri:
-            'https://d1izikxk6qog.cloudfront.net/cdn/brothers/medias/c5a5ae81-6eed-4fd1-be2e-02925ec80050.png',
+            'https://d1izikxk6qog.cloudfront.net/cdn/brothers/medias/1842cc74-81cc-4824-a2a5-0ec8660a78bd.png',
         }}
       />
       <TouchableOpacity

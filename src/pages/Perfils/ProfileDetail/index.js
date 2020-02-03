@@ -3,10 +3,6 @@ import { View } from 'react-native';
 
 // import { Container } from './styles';
 
-export default function NewPoint() {
+export default function ProfileDetail() {
   return <View />;
 }
-
-NewPoint.navigationOptions = () => ({
-  title: 'Adicionar um novo local',
-});
